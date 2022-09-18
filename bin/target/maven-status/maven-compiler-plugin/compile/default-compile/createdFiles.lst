@@ -1,0 +1,12 @@
+tn\esprit\tn\entity\Classe.class
+tn\esprit\tn\entity\CategorieEvent.class
+tn\esprit\tn\entity\Question.class
+tn\esprit\tn\entity\Rendezvous.class
+tn\esprit\tn\entity\Publication.class
+tn\esprit\tn\entity\Event.class
+tn\esprit\tn\entity\User.class
+tn\esprit\spring\PiApplication.class
+tn\esprit\tn\entity\CategoriePost.class
+tn\esprit\tn\entity\Employe.class
+tn\esprit\tn\entity\Enfants.class
+tn\esprit\tn\entity\Reclamation.class
