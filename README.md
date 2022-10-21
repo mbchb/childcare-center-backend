@@ -1,2 +1,2 @@
 # childcare-center-backend
-[ Spring Boot ]
+[Spring Boot]
